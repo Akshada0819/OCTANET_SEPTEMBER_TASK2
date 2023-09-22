@@ -1,2 +1,2 @@
-# OCTANET_SEPTEMBER_TASK2
+# OCTANET_SEPTEMBER_TO Do List
 #To do List using Javascript
